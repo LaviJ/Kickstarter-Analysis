@@ -11,14 +11,14 @@
 ### Deliverable 1 : Analysis of Outcomes Based on Launch Date -
 As Louise's play "Fever" has come close to its fundraising goal, we will be analyzing data of different campaigns fared in relation to their launch dates.
 	As we analyzed the data based on launch dates in the category of theater, we discovered that the projects launched from May to August were likely to be more successful than other months. Projects were more likely to fail towards the end of the year.
-	![Theater Outcomes by Launch-Date](resources/Theater_Outcomes_vs_Launch_Date.png)
+	![Theater Outcomes by Launch-Date](Resources/Theater_Outcomes_vs_Launch_Date.png)
 
 
 ### Deliverable 3 : Analysis of Outcomes Based on Goals -
 Also we wanted to make sure that the estimation made by Louise was appropriate. Hence a comparision in relation to the range of the funding goals is required to get a better picture of how likely it is for Louise campaign to be fully funded. 
  	As a result of this analysis, it was discovered that more that 66% of projects were successfully funded. And out of these 66% projects, 76% projects had goal range of under $4999. 34% of the projects failed due to higher goals.
 
-![Outcomes Based on Goals](resources/Outcomes_based_vs_Goals.png)
+![Outcomes Based on Goals](Resources/Outcomes_based_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered -
