@@ -37,7 +37,8 @@ In order to make sure that the data wasn't modified or altered, a separate sheet
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Conclusion 1 : From the above analysis based on launch date, we can conclude that the projects in theater category launched during the earlier part of the year i.e. May to August are more likely to be successful.
+
+1. Conclusion 1 : From the above analysis based on launch date, we can conclude that the projects in theater category launched during the earlier part of the year i.e. May to August are more likely to be successful.
 
 So the launch date should be planned from anytime between May to August.
 
@@ -47,8 +48,8 @@ So the launch date should be planned from anytime between May to August.
 From the analysis based on outcomes, its concluded that the project goal should be under $5000 or less in order to be atleast 70% successful.
 
 - What are some limitations of this dataset?
-The main and biggest limitation of the data set is the actual reason of the failure of the project. There could be various reasons for failure like preferences of pledgers, the time of the project, previous history of the launching organization, cultural differences of the pledgers in different countries, age of the pledgers, the state of the economy of the country during the launch, the buying power of the launchers.
+The main and biggest limitation of the data set is the actual reason of the failure of the project. There could be various reasons for failure like preferences of pledgers, the time of the project, previous history of the launching organization, cultural differences of the pledgers in different countries, age of the pledgers, the state of the economy of the country during the launch, the buying power of the pledgers.
 
 - What are some other possible tables and/or graphs that we could create?
 1. A bar graph which gives comparison of the outcomes based on goals as well as pledged can easily display the difference between the two parameters.
-2. A line graph to show the outcomes based on the pledged and baesed on the percentage funded.
+2. A line graph to show the outcomes based on the pledged and based on the percentage funded.
