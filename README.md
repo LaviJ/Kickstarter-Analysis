@@ -1,4 +1,5 @@
-# Kickstarting with Excel (Module 1 - Challenge) : Kickstarter 
+# Kickstarting with Excel
+Visualizing campaign outcomes based on their launch dates and their funding goals for budget estimation for the play "Fever".
 
 ## Overview of Project - Kickstarter Data Analysis for Crowdfunding
 	Analyzing Data for Louise, an upcoming play writer, in order for her to create a crowdfunding campaign to help fund her play "Fever".
